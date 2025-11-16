@@ -30,7 +30,7 @@
 1.  Склонировать репозиторий:
 
     ``` bash
-    git clone https://github.com/JohnCherryJC/SimpleJavaProject.git
+    git clone https://github.com/JohnCherryJC/JavaProjectJC.git
     ```
 
 2.  Открыть проект в VS Code.
